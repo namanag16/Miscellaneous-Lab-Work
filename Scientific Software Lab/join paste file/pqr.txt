@@ -1,0 +1,4 @@
+1 delhi kanpur
+2 mumbai goa
+3 pune maharashtra
+5 gayle westindies
